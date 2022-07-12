@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'NotoSans';
+  src: url('./fonts/NotoSansDisplay-Thin.ttf');
+}
+
+* {
+  font-family: 'NotoSans';
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  background-color: #444;
+}
